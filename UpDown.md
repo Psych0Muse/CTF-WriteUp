@@ -14,8 +14,7 @@ tags:
 
 # Recon
 
-![[Pasted image 20260413101723.png]]
-
+<img width="768" height="366" alt="image" src="https://github.com/user-attachments/assets/56ad189f-3846-4247-af33-37104ef74e64" />
 
 
 
